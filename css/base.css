@@ -384,7 +384,8 @@ a.demo--current {
 	cursor: default;
 	line-height: 1;
 	color: #fff;
-	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-weight: 700;
+	font-family: "source-han-serif-tc",Georgia, 'Times New Roman', Times, serif;
 }
 
 .slide__desc {
@@ -396,7 +397,7 @@ a.demo--current {
 	/*padding: 0 1em;*/
 	/*text-align: center;*/
 	color: #fff;
-	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-family:"source-han-serif-tc", Georgia, 'Times New Roman', Times, serif;
 }
 
 .slide__link {
@@ -406,7 +407,7 @@ a.demo--current {
 	padding: 0 0 0 10vw;
 	display: block;
 	color: #fff;
-	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-family: "source-han-serif-tc", Georgia, 'Times New Roman', Times, serif;
 	/*background: var(--color-slink-bg);*/
 	transition: color 0.3s, background 0.3s;
 }
