@@ -380,7 +380,7 @@ a.demo--current {
 	position: relative;
 	font-size: 12vw;
 	margin: 50vh 0 0 0;
-	padding: 0 0 0 10vw;
+	padding: 0 10vw 0 10vw;
 	cursor: default;
 	line-height: 1;
 	color: #fff;
@@ -393,7 +393,7 @@ a.demo--current {
 	font-size: 1.5em;
 	/*margin: 0 0 2em 0;*/
 	cursor: default;
-	padding: 0 0 0 10vw;
+	padding: 0 10vw 0 10vw;
 	/*padding: 0 1em;*/
 	/*text-align: center;*/
 	color: #fff;
@@ -404,7 +404,7 @@ a.demo--current {
 	position: relative;
 	font-size: 1em;
 	font-weight: bold;
-	padding: 0 0 0 10vw;
+	padding: 0 10vw 0 10vw;
 	display: block;
 	color: #fff;
 	font-family: "source-han-serif-tc", Georgia, 'Times New Roman', Times, serif;
