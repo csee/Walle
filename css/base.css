@@ -403,10 +403,10 @@ a.demo--current {
 .slide__link {
 	position: relative;
 	font-size: 1em;
-	font-weight: bold;
+	/*font-weight: bold;*/
 	padding: 0 10vw 0 10vw;
 	display: block;
-	color: #666;
+	color: #57585c;
 	font-family: "source-han-serif-tc", Georgia, 'Times New Roman', Times, serif;
 	/*background: var(--color-slink-bg);*/
 	transition: color 0.3s, background 0.3s;
