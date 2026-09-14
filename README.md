@@ -1,2 +1,20 @@
-# Zhiwei
-Codename "Walle", picture base quote share sites
+# Zhiwei（代号 Walle）
+
+图片语录分享站点：以图片为基础展示语录/句子，幻灯片式浏览，切换时带有动画 SVG 框转场。
+
+## 功能
+
+- 幻灯片式图片浏览，支持切换交互
+- 图片配语录展示，标注图片来源
+- 纯静态实现，无构建步骤
+
+## 使用
+
+直接用浏览器打开 `index.html`，或部署到任意静态托管（GitHub Pages 等）。
+
+## 目录
+
+- `index.html` — 页面入口
+- `css/` — 样式
+- `js/` — 脚本
+- `img/` / `asset/` — 图片与静态资源
